@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+Flask
+psycopg[binary]
+psycopg-pool
+requests
+google-auth
+google-api-python-client
